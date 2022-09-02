@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aplicacionubicua",
+  "private_key_id": "b7c8fe8b734fd3967c9588e018d163a587ea70fe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDiwjDvX2HAGUd+\nbyJmN0+2CcwjVFk6nwrRvMz1EeouqOVkBeuF5rXdBWVPeDPhJ+qHpNrAtBa6gTQE\n+PUQXlujv4rdA4JBVaJbSccioPFl4J6mRAif/SUoqh2zuXMBVGZ8S42zJlSnkT8R\nzdXW74/6soxdvcSmsAIcEfGW9ROuV/qTsxBovxac4qmNk5Ljw92y377DMQElr9hV\nRUvDn7xXSNg/DL1hZr4L95vMjbO3cKMZs8JHgUNjr7RTyG6Bhsh9m3/ZglLgDXHi\n5SuQhhZHKtoXmQRloeXjZxf4PuqPNqWgJrZLYK72tHU19UGbM+YB4yEiqbiHswO3\nK/Na1FB3AgMBAAECggEANVmQ39CmE+cerf2Br2DWDTMy5yECOUuP5Raxdfs4CLBO\nAAFwjzlfklehpVfXhOK6SB2eJfZ43nplfcIBDk/U6aq4BhW8QJjgMPAjvN72zIxT\nZzTcfp+1bWLQyCcairaLwjSYawzan+4JU6wE4qPMUSRO6AMs0Dba2DXUjDqu3bZ9\n4Mxj7wMIuG4OsAe+mz61MWfduFM9l+4d4ZhEVpE+0bx9QpaAJEUEFvRqPDC50JHY\nr6iDs0wl1hCxZcAsHuB58NUwJb4gcP7dDifonF+pe0s7tK4nkL9vzgkbnEfxlVIh\niB3Ad78wIPABz7dDvbL+Y+4VxyJj9j8QPmyRIVMnIQKBgQD3kLj48rUQPKLp8aI8\nh06O9eHmPf/Z5j/xTowF1N+HE+6yz8zw8BCCLOlvHv8Sy8b3v2+na9MI44WBhlLV\nmyTZ8UmGmeWCP5ep/BJh8A4Twtq2bdONsx90SsmAmJGMd/rW7UHQ6hRbZ4lqJ7K2\n8WoNpBfC1wEn07Uai5jZgMOkkQKBgQDqe/2urG5HEdqVyPZsgnUAXubqQ/47zKIH\nmx4vyYA2zrYxVmpOdrrsqM4qzvI6sQ9oWf8/K/mFOgrC8QensToOAWbTwqNWOm4k\nh2P72IyADVMpOgDD3oHWPCwRDMUP50GJsW2pM/Hb+66xEpeOtwZ+esZxL50GTrJ5\nyjfooEQIhwKBgQCElRMa8BCcA31UQL4cIHKoCXLTtbyB29e+ycwfi2OymbAqPzOI\njWip7peNlVIRpOSH5hRL22kHx6HGPkO6df4EYj54QY8ydBArTv4hSUiguKgdLzAv\nIRDlXPARWKQKUG8cD7BBzDrewNJM8bm6VAvyBkFbbX4G8FB7SOuxAE7GoQKBgDI0\negx8PuBYokSP0rNI+2Qo7agbBsQm/EpEnCH/MsSJXdkSd5B1O3CQdBQWWybV4kal\nflE4SSSNWOCEWu88swFsq2eLtQ0xVYPcuTujEfIY6EVbde56JbKJD6ZW5ZqSGSYy\nJxijVpWTPcQMBwc3iNxrzTFO0IAZOX16Hp5gMjDhAoGAR+WT6pjvXC7KmY+TLv1f\nOoBDrqiSKMN28LZFgsSYgS7BJgabrsHiHPDcsVW85xLurBemOoRvZiwkvY3OWw4U\nS0wXfxoymO2VDNv7E3NebVAgtbRtrFoCfurImxY8NWsLJMw2ddQiAE3FuJwcjBeD\nMKnWGXWAcUpQVfWjSRa1tKg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-hm8cs@aplicacionubicua.iam.gserviceaccount.com",
+  "client_id": "101352964400961206731",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-hm8cs%40aplicacionubicua.iam.gserviceaccount.com"
+}

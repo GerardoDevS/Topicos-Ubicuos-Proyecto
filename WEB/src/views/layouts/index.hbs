@@ -1,0 +1,30 @@
+<div class="col-md-6 offset-md-3">
+    <div class="card">
+        <div class="card-header">
+            <h1>Listado de alumnos</h1>
+        </div>
+        <div class="card-body">
+            {{#if Usuarios}}
+                  <table border="2" style="margin: 0 auto;" class="table table-hover">
+                        <tr class="table-dark">
+                        <thead style="font-size: large;">
+                            <th>Nombre</th>
+                            <th>No. de control</th>
+                            <th>Estado</th>
+                        </thead>
+                        </tr>
+                        {{#each Usuarios}}
+                        <tr class="table-dark">
+                            <td>{{ApellidoP}} {{ApellidoM}} {{Nombre}}</td>
+                            <td>{{NC}}</td>
+                            <td>{{EstadoActual}}</td>
+                        </tr>
+                        {{/each}}
+                    </table> 
+            {{else}}
+            <p>No hay usuarios aún.</p>
+            {{/if}}
+        </div>
+
+    </div>
+</div>
